@@ -1,2 +1,2 @@
 # WEATHER-APP-SASS
-ap
+this is a wheather app
