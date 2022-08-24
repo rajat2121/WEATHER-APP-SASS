@@ -14,3 +14,6 @@ Tech Stack :
 .Show different background in day and night .
 . Show different Background in Show , Rain, Summer and Winter
 
+
+This image is how that App what to khown current location
+![wheather1](https://user-images.githubusercontent.com/85844554/186334965-8260f91a-2eae-4736-bd59-16e2d9a663fb.png)
