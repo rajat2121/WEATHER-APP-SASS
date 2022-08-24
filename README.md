@@ -17,3 +17,9 @@ Tech Stack :
 
 This image is how that App what to khown current location
 ![wheather1](https://user-images.githubusercontent.com/85844554/186334965-8260f91a-2eae-4736-bd59-16e2d9a663fb.png)
+
+
+
+
+This is mobile responsive version of this app and its show stars in background beacuse its night in England
+![wheather2](https://user-images.githubusercontent.com/85844554/186335190-f0928252-b60e-4b8a-9805-3daaa3841b32.png)
